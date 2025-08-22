@@ -1,0 +1,46 @@
+*{
+    background-color: antiquewhite;
+    
+}
+#titulo{
+    text-align: center;
+    font-size: 55px;
+}
+header{
+    text-align: center;
+}
+nav ul{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 25px;
+}
+a{
+    text-decoration: none;
+}
+section{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+}
+section h2{
+    font-size: 45px;
+}
+
+img{
+    margin: 25px;
+}
+#contato{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+#contato div{
+    margin: auto;
+    padding: auto;
+}
